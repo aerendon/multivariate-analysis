@@ -19,5 +19,6 @@ ___
 
 ## Más información
 
+* https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 * [Wisconsin Diagnostic Breast Cancer (WDBC) dataset](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 * [Colomb-ia](https://github.com/jcvasquezc/supervised-cancer)

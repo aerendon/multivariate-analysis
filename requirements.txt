@@ -1,0 +1,7 @@
+jupyterlab
+sklearn
+numpy
+scipy
+plotly
+tensorflow
+pandas
