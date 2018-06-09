@@ -6,7 +6,9 @@
 
 El [Wisconsin Diagnostic Breast Cancer (WDBC) dataset](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) es un conjunto de datos de características de imagenes de lunares cancerigenos o no.
 
-Este dataset contiene alrededror de 500 muestras de características extraidas de lunares para determinar cancer de piel. 
+Este dataset contiene alrededror de 500 muestras de características extraidas de lunares para determinar cancer de piel.
+
+![Muestra](https://www.researchgate.net/profile/Lucas_Borges8/publication/311950799/figure/fig1/AS:444458983530496@1482978687857/A-magnified-image-of-a-malignant-breast-fine-needle-aspirate-Visible-cell-nuclei-are.ppm)
 
 El dataset esta distribuido de la siguiente forma:
 
