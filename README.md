@@ -10,10 +10,17 @@ Este dataset contiene alrededror de 500 muestras de características extraidas d
 
 El dataset esta distribuido de la siguiente forma:
 
-* `data_train.txt` contiene el conjunto de entrenamiento formado por 448 muestras
-* `labels_train.txt` contiene los labels asociados al conjunto de entrenamiento
-* `data_test.txt` contiene el conjunto de test formado por 112 muestras
-* `labels_test.txt` contiene los labels asociados al conjunto de test
+* Label (B: 0, M: 1)
+* radius (mean of distances from center to points on the perimeter)
+* texture (standard deviation of gray-scale values)
+* perimeter
+* area
+* smoothness (local variation in radius lengths)
+* compactness (perimeter^2 / area - 1.0)
+* concavity (severity of concave portions of the contour)
+* concave points (number of concave portions of the contour)
+* symmetry 
+* fractal dimension ("coastline approximation" - 1)
 
 ___
 
