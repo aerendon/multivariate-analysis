@@ -2,6 +2,5 @@ jupyterlab
 sklearn
 numpy
 scipy
-plotly
-tensorflow
+seaborn
 pandas
