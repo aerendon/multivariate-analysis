@@ -26,6 +26,7 @@ El dataset esta distribuido de la siguiente forma:
 
 Caracteristicas significativas que representan importancia a la hora de decidir si un lunar es maligno:
 
+```
                  coef    std err          z      P>|z|      [0.025      0.975]
 ------------------------------------------------------------------------------
 texture          0.3777      0.063      5.977      0.000       0.254       0.502
@@ -35,6 +36,7 @@ compactness      2.4326     19.004      0.128      0.898     -34.815      39.681
 concavity        7.4069      7.713      0.960      0.337      -7.711      22.524
 concave points   70.1621     27.678      2.535      0.011      15.913     124.411
 symmetry         15.1245     10.345      1.462      0.144      -5.150      35.399
+```
 
 ___
 
